@@ -1,216 +1,170 @@
 <events>
 <event>
 <id>8136301</id>
-<title>
-Pitbull @ Mandalay Bay Events Center in Las Vegas, NV
-</title>
+<url>
+http://www.bandsintown.com/event/8136301?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-12T19:30:00</datetime>
-<formatted_datetime>Sunday, October 12, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>Las Vegas, NV</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8136301/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8136301/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-05-16T10:00:00</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8136301?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>684214</id>
+<url>http://www.bandsintown.com/venue/684214</url>
 <name>Mandalay Bay Events Center</name>
 <city>Las Vegas</city>
 <region>NV</region>
 <country>United States</country>
-<latitude>36.091799</latitude>
-<longitude>-115.173874</longitude>
+<latitude>36.0917990</latitude>
+<longitude>-115.1738740</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-05-16T10:00:00</on_sale_datetime>
 </event>
 <event>
 <id>8095132</id>
-<title>Pitbull @ SAP Center at San Jose in San Jose, CA</title>
+<url>
+http://www.bandsintown.com/event/8095132?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-14T19:30:00</datetime>
-<formatted_datetime>Tuesday, October 14, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>San Jose, CA</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8095132/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8095132/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-05-09T10:00:00</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8095132?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>1898509</id>
+<url>http://www.bandsintown.com/venue/1898509</url>
 <name>SAP Center at San Jose</name>
 <city>San Jose</city>
 <region>CA</region>
 <country>United States</country>
-<latitude>37.331997</latitude>
-<longitude>-121.900748</longitude>
+<latitude>37.3319970</latitude>
+<longitude>-121.9007480</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-05-09T10:00:00</on_sale_datetime>
 </event>
 <event>
 <id>8522796</id>
-<title>
-Pitbull @ Valley View Casino Center formerly San Diego Sports Arena in San Diego, CA
-</title>
+<url>
+http://www.bandsintown.com/event/8522796?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-15T19:30:00</datetime>
-<formatted_datetime>Wednesday, October 15, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>San Diego, CA</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8522796/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8522796/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2009-09-12T20:00:00</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8522796?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>1003642</id>
+<url>http://www.bandsintown.com/venue/1003642</url>
 <name>
 Valley View Casino Center formerly San Diego Sports Arena
 </name>
 <city>San Diego</city>
 <region>CA</region>
 <country>United States</country>
-<latitude>32.753793</latitude>
-<longitude>-117.21115</longitude>
+<latitude>32.7537930</latitude>
+<longitude>-117.2111500</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2009-09-12T20:00:00</on_sale_datetime>
 </event>
 <event>
 <id>8077814</id>
-<title>Pitbull @ American Airlines Center in Dallas, TX</title>
+<url>
+http://www.bandsintown.com/event/8077814?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-17T19:30:00</datetime>
-<formatted_datetime>Friday, October 17, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>Dallas, TX</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8077814/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8077814/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-04-30T01:57:35</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8077814?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>275851</id>
+<url>http://www.bandsintown.com/venue/275851</url>
 <name>American Airlines Center</name>
 <city>Dallas</city>
 <region>TX</region>
 <country>United States</country>
 <latitude>32.7833333</latitude>
-<longitude>-96.8</longitude>
+<longitude>-96.8000000</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-04-30T01:57:35</on_sale_datetime>
 </event>
 <event>
 <id>8418207</id>
-<title>Pitbull @ Alamodome in San Antonio, TX</title>
+<url>
+http://www.bandsintown.com/event/8418207?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-18T19:30:00</datetime>
-<formatted_datetime>Saturday, October 18, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>San Antonio, TX</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8418207/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8418207/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-07-15T18:29:07</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8418207?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>289622</id>
+<url>http://www.bandsintown.com/venue/289622</url>
 <name>Alamodome</name>
 <city>San Antonio</city>
 <region>TX</region>
 <country>United States</country>
-<latitude>29.418546</latitude>
-<longitude>-98.479802</longitude>
+<latitude>29.4185460</latitude>
+<longitude>-98.4798020</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-07-15T18:29:07</on_sale_datetime>
 </event>
 <event>
 <id>8079801</id>
-<title>Pitbull @ Toyota Center in Houston, TX</title>
+<url>
+http://www.bandsintown.com/event/8079801?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-19T19:30:00</datetime>
-<formatted_datetime>Sunday, October 19, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>Houston, TX</formatted_location>
-<ticket_url/>
-<ticket_type/>
-<ticket_status>unavailable</ticket_status>
-<on_sale_datetime>2014-04-30T02:02:19</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8079801?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
+<ticket_url>
+http://www.bandsintown.com/event/8079801/buy_tickets
+</ticket_url>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>275844</id>
+<url>http://www.bandsintown.com/venue/275844</url>
 <name>Toyota Center</name>
 <city>Houston</city>
 <region>TX</region>
@@ -218,217 +172,173 @@ http://www.bandsintown.com/Pitbull/photo/medium.jpg
 <latitude>29.7630556</latitude>
 <longitude>-95.3630556</longitude>
 </venue>
+<ticket_status>unavailable</ticket_status>
+<on_sale_datetime>2014-04-30T02:02:19</on_sale_datetime>
 </event>
 <event>
 <id>8077813</id>
-<title>Pitbull @ Amway Center in Orlando, FL</title>
+<url>
+http://www.bandsintown.com/event/8077813?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-21T19:30:00</datetime>
-<formatted_datetime>Tuesday, October 21, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>Orlando, FL</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8077813/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8077813/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-04-30T01:58:12</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8077813?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>887191</id>
+<url>http://www.bandsintown.com/venue/887191</url>
 <name>Amway Center</name>
 <city>Orlando</city>
 <region>FL</region>
 <country>United States</country>
-<latitude>28.540108</latitude>
-<longitude>-81.384002</longitude>
+<latitude>28.5401080</latitude>
+<longitude>-81.3840020</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-04-30T01:58:12</on_sale_datetime>
 </event>
 <event>
 <id>8079800</id>
-<title>
-Pitbull @ The Arena At Gwinnett Center in Duluth, GA
-</title>
+<url>
+http://www.bandsintown.com/event/8079800?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-22T19:30:00</datetime>
-<formatted_datetime>Wednesday, October 22, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>Duluth, GA</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8079800/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8079800/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-04-30T19:00:00</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8079800?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>327601</id>
+<url>http://www.bandsintown.com/venue/327601</url>
 <name>The Arena At Gwinnett Center</name>
 <city>Duluth</city>
 <region>GA</region>
 <country>United States</country>
-<latitude>33.991438</latitude>
-<longitude>-84.090683</longitude>
+<latitude>33.9914380</latitude>
+<longitude>-84.0906830</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-04-30T19:00:00</on_sale_datetime>
 </event>
 <event>
 <id>8079799</id>
-<title>Pitbull @ Hard Rock Live in Hollywood, FL</title>
+<url>
+http://www.bandsintown.com/event/8079799?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-25T19:30:00</datetime>
-<formatted_datetime>Saturday, October 25, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>Hollywood, FL</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8079799/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8079799/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-04-30T19:00:00</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8079799?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>689039</id>
+<url>http://www.bandsintown.com/venue/689039</url>
 <name>Hard Rock Live</name>
 <city>Hollywood</city>
 <region>FL</region>
 <country>United States</country>
-<latitude>26.04216</latitude>
-<longitude>-80.211239</longitude>
+<latitude>26.0421600</latitude>
+<longitude>-80.2112390</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-04-30T19:00:00</on_sale_datetime>
 </event>
 <event>
 <id>8255055</id>
-<title>Pitbull @ AmericanAirlines Arena in Miami, FL</title>
+<url>
+http://www.bandsintown.com/event/8255055?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-26T19:30:00</datetime>
-<formatted_datetime>Sunday, October 26, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>Miami, FL</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8255055/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8255055/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-06-13T10:00:00</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8255055?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>771947</id>
+<url>http://www.bandsintown.com/venue/771947</url>
 <name>AmericanAirlines Arena</name>
 <city>Miami</city>
 <region>FL</region>
 <country>United States</country>
-<latitude>25.780637</latitude>
-<longitude>-80.189052</longitude>
+<latitude>25.7806370</latitude>
+<longitude>-80.1890520</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-06-13T10:00:00</on_sale_datetime>
 </event>
 <event>
 <id>8509152</id>
-<title>Pitbull @ Amway Center in Orlando, FL</title>
+<url>
+http://www.bandsintown.com/event/8509152?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-28T19:30:00</datetime>
-<formatted_datetime>Tuesday, October 28, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>Orlando, FL</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8509152/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8509152/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-04-30T01:58:12</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8509152?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>887191</id>
+<url>http://www.bandsintown.com/venue/887191</url>
 <name>Amway Center</name>
 <city>Orlando</city>
 <region>FL</region>
 <country>United States</country>
-<latitude>28.540108</latitude>
-<longitude>-81.384002</longitude>
+<latitude>28.5401080</latitude>
+<longitude>-81.3840020</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-04-30T01:58:12</on_sale_datetime>
 </event>
 <event>
 <id>8085107</id>
-<title>Pitbull @ Madison Square Garden in New York, NY</title>
+<url>
+http://www.bandsintown.com/event/8085107?artist=Pitbull&amp;came_from=67
+</url>
 <datetime>2014-10-30T19:30:00</datetime>
-<formatted_datetime>Thursday, October 30, 2014 at 7:30PM</formatted_datetime>
-<formatted_location>New York, NY</formatted_location>
 <ticket_url>
-http://www.bandsintown.com/event/8085107/buy_tickets?app_id=YOUR_APP_ID&amp;artist=Pitbull
+http://www.bandsintown.com/event/8085107/buy_tickets
 </ticket_url>
-<ticket_type>Tickets</ticket_type>
-<ticket_status>available</ticket_status>
-<on_sale_datetime>2014-05-09T10:00:00</on_sale_datetime>
-<facebook_rsvp_url>
-http://www.bandsintown.com/event/8085107?app_id=YOUR_APP_ID&amp;artist=Pitbull&amp;came_from=67
-</facebook_rsvp_url>
-<description/>
 <artists>
 <artist>
 <name>Pitbull</name>
+<url>http://www.bandsintown.com/Pitbull</url>
 <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
-<image_url>
-http://www.bandsintown.com/Pitbull/photo/medium.jpg
-</image_url>
-<thumb_url>http://www.bandsintown.com/Pitbull/photo/small.jpg</thumb_url>
-<facebook_tour_dates_url>http://bnds.in/x2Kd1l</facebook_tour_dates_url>
 </artist>
 </artists>
 <venue>
+<id>1911663</id>
+<url>http://www.bandsintown.com/venue/1911663</url>
 <name>Madison Square Garden</name>
 <city>New York</city>
 <region>NY</region>
@@ -436,5 +346,7 @@ http://www.bandsintown.com/Pitbull/photo/medium.jpg
 <latitude>40.7141667</latitude>
 <longitude>-74.0063889</longitude>
 </venue>
+<ticket_status>available</ticket_status>
+<on_sale_datetime>2014-05-09T10:00:00</on_sale_datetime>
 </event>
 </events>

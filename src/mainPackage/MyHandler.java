@@ -26,13 +26,13 @@ public class MyHandler implements ContentHandler {
     public void startElement(String uri, String localName,
             String qName, Attributes attrs) {
 //
-        if ("datetime".equals(qName) || "city".equals(qName) || "url".equals(qName) || "country".equals(qName)|| "region".equals(qName)) {
+        if ("datetime".equals(qName) || "city".equals(qName) || "country".equals(qName)|| "region".equals(qName)) {
             currentEnum
                     = TagEnum.valueOf(qName.toUpperCase());           
         }
         
         if ("venue".equals(qName)) {
-            isInVenue = true;
+            isInVenue = true;      
          }
         
         if ("name".equals(qName)) {
@@ -41,7 +41,13 @@ public class MyHandler implements ContentHandler {
                     = TagEnum.valueOf(qName.toUpperCase());
          }
         
-        if ("artist".equals(qName)) {
+        if ("url".equals(qName)) {
+           if(isInVenue == true) 
+               currentEnum
+                    = TagEnum.valueOf(qName.toUpperCase());
+         }
+        
+        if ("city".equals(qName)) {
             isInVenue = false;
          }
     }
@@ -61,9 +67,8 @@ public class MyHandler implements ContentHandler {
 
         if (currentEnum == TagEnum.DATETIME) {
             try {
-                SimpleDateFormat isoFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
-                isoFormat.setTimeZone(TimeZone.getDefault());
-                Date date = isoFormat.parse(s);
+                SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");              
+                Date date = formatter.parse(s);
                 System.out.print("*************************** " + "\n");
             System.out.print(date + "\n");
             } catch (ParseException ex) {
@@ -74,6 +79,9 @@ public class MyHandler implements ContentHandler {
         if (currentEnum == TagEnum.CITY ||currentEnum == TagEnum.REGION) {
            System.out.print(s + ", ");
         }    
+        if (currentEnum == TagEnum.URL) {
+           System.out.print( s + "\n");
+        } 
         
          if (currentEnum == TagEnum.COUNTRY || currentEnum == TagEnum.NAME)
          {
