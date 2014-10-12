@@ -25,7 +25,6 @@ public class MyHandler implements ContentHandler {
 
     public void startElement(String uri, String localName,
             String qName, Attributes attrs) {
-//
         if ("datetime".equals(qName) || "city".equals(qName) || "country".equals(qName)|| "region".equals(qName)) {
             currentEnum
                     = TagEnum.valueOf(qName.toUpperCase());           
