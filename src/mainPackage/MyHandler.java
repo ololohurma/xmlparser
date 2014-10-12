@@ -1,5 +1,12 @@
 package mainPackage;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Locale;
+import java.util.TimeZone;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import org.xml.sax.Attributes;
 import org.xml.sax.ContentHandler;
 import org.xml.sax.Locator;
@@ -51,11 +58,18 @@ public class MyHandler implements ContentHandler {
         if (currentEnum == null) {
             return;
         }
-        //handling strings
+
         if (currentEnum == TagEnum.DATETIME) {
-            
-            System.out.print("*************************** " + "\n");
-            System.out.print(s + "\n");           
+            try {
+                SimpleDateFormat isoFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
+                isoFormat.setTimeZone(TimeZone.getDefault());
+                Date date = isoFormat.parse(s);
+                System.out.print("*************************** " + "\n");
+            System.out.print(date + "\n");
+            } catch (ParseException ex) {
+                Logger.getLogger(MyHandler.class.getName()).log(Level.SEVERE, null, ex);
+            }
+                       
         }
         if (currentEnum == TagEnum.CITY ||currentEnum == TagEnum.REGION) {
            System.out.print(s + ", ");
